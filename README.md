@@ -37,7 +37,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 - <b>Excel</b> 
 - <b>SQL</b>
 - <b>Tableau</b>
-- <b>Google Slides</b> link to presentation (https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing)
+- <b>Google Slides</b> <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation 
 
 <h2>Environments Used </h2>
 
