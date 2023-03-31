@@ -43,7 +43,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Analyss walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
