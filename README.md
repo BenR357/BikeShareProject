@@ -39,11 +39,8 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 - <b>Tableau</b>
 - <b>Google Slides</b> <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation 
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Analyss walk-through:</h2>
+<h2>Analysis walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
