@@ -13,7 +13,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 
 - <b>Excel</b> 
 - <b>SQL</b> </b> <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link to scripts and analysis </b>
-- <b>Tableau</b>
+- <b>Tableau</b> <b><a href="https://public.tableau.com/views/ride_share_short/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">link to Tableau </b>
 - <b>Google Slides</b> <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation </b>
 
 
@@ -28,8 +28,8 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
  These formulas were copied down to include all rows of data for each spreadsheet. </p>
  <br />
  
-![Alt text](https://i.imgur.com/FePjywt.png)
- 
+ ![image](https://user-images.githubusercontent.com/129348678/229319137-483f5ede-05cb-4863-ac10-4c0cb79fb396.png)
+
  <h3>SQL</h3>
 After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. To see a detailed walkthrough for SQL along with the scripts, follow this link.
 
