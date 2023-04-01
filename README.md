@@ -27,15 +27,13 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
  <br /> <br /> b. "day_of_week" which is calculated by using the "WEEKDAY" command (=WEEKDAY(C2,1))
  These formulas were copied down to include all rows of data for each spreadsheet. </p>
  <br />
- <br />
- ![Alt text] (BikeShareProject/bike_share_excel.png)
-<br /> <br />
-
+ 
+![Alt text](https://i.imgur.com/FePjywt.png)
+ 
  <h3>SQL</h3>
 After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. To see a detailed walkthrough for SQL along with the scripts, follow this link.
 
 ![image](https://user-images.githubusercontent.com/129348678/229315371-b4d2670c-c8df-459b-b50f-7053295820ad.png)
-
 
 <p align="center">
 Launch the utility: <br/>
