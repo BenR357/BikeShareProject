@@ -28,7 +28,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
  These formulas were copied down to include all rows of data for each spreadsheet. </p>
  <br />
  <br />
- ![image](https://user-images.githubusercontent.com/129348678/229316538-c43d37f5-4f54-429f-b113-d44d0093417c.png)
+ ![Alt text] (BikeShareProject/bike_share_excel.png)
 <br /> <br />
 
  <h3>SQL</h3>
