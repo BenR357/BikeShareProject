@@ -31,38 +31,12 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
  ![image](https://user-images.githubusercontent.com/129348678/229319137-483f5ede-05cb-4863-ac10-4c0cb79fb396.png)
 
  <h3>SQL</h3>
-After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. To see a detailed walkthrough for SQL along with the scripts, follow this link.
+After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. This included cleaning the data, comparing average ride time by rider type, comparing total rides by rider type, and finding which day of the week has the most rides by rider type. To see a detailed walkthrough for SQL along with the scripts, follow this <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link</b>.
 
 ![image](https://user-images.githubusercontent.com/129348678/229315371-b4d2670c-c8df-459b-b50f-7053295820ad.png)
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
