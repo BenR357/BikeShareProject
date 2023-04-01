@@ -2,34 +2,11 @@
 
 
 <h2>Project Description</h2>
-In this project, I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
-of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
-my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
-my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
-must approve my recommendations, so they must be backed up with compelling data insights and professional data
-visualizations.
+The project involves a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The team aims to understand how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy to convert casual riders into annual members. The recommendations must be backed up with compelling data insights and professional data visualizations.
 <br />
 
 <h2>About the Company</h2>
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
-are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
-returned to any other station in the system anytime.
-
-Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments.
-One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes,
-and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers
-who purchase annual memberships are Cyclistic members.
-
-Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the
-pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will
-be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a
-very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic
-program and have chosen Cyclistic for their mobility needs.
-
-Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
-do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
-casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
-interested in analyzing the Cyclistic historical bike trip data to identify trends.
+Cyclistic launched a successful bike-share offering in 2016. The program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Moreno believes that maximizing the number of annual members will be key to future growth. Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members.
 <br />
 
 <h2>Programs and Languages Utilized</h2>
@@ -41,6 +18,36 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 
 <h2>Analysis walk-through:</h2>
+(Cyclistic is a fictional company and the data has been made available by Motivate International Inc. under this <b><a href="https://ride.divvybikes.com/data-license-agreement"> license</b>.)
+
+<br /> <br /> </b>
+
+I secured the original data by storing it in my password-protected Google Drive. I then made copies of all the files and added a suffix of ‘…v1’ to each one. I opened each file in Microsoft Excel to review the data and determine what type of information was available. During this process, I added several columns to the data:
+<br /> <br />a. "ride_length" which is calculated by subtracting the "started_at" column from the "ended_at" column (=D2-C2). 
+ <br /> <br /> b. "day_of_week" which is calculated by using the "WEEKDAY" command (=WEEKDAY(C2,1))
+These formulas were copied down to include all rows of data for each spreadsheet. 
+<br /> <br />
+
+In PostgreSQL, I created this script which creates a table called "ride_share_data" and labels each column.
+
+CREATE TABLE ride_share_data (
+    ride_id TEXT,
+    rideable_type TEXT,
+    started_at TIMESTAMP,
+    ended_at TIMESTAMP,
+    start_station_name TEXT,
+    start_station_id TEXT,
+    end_station_name TEXT,
+    end_station_id TEXT,
+    start_lat NUMERIC,
+    start_lng NUMERIC,
+    end_lat NUMERIC,
+    end_lng NUMERIC,
+    member_casual TEXT,
+    ride_length INTERVAL,
+    day_of_week SMALLINT NOT NULL CHECK(day_of_week >= 1 AND day_of_week <= 7)
+);
+
 
 <p align="center">
 Launch the utility: <br/>
