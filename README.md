@@ -28,25 +28,9 @@ I secured the original data by storing it in my password-protected Google Drive.
 These formulas were copied down to include all rows of data for each spreadsheet. 
 <br /> <br />
 
-In PostgreSQL, I created this script which creates a table called "ride_share_data" and labels each column.
+After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. To see a detailed walkthrough for SQL along with the scripts, follow this link.
 
-CREATE TABLE ride_share_data (
-    ride_id TEXT,
-    rideable_type TEXT,
-    started_at TIMESTAMP,
-    ended_at TIMESTAMP,
-    start_station_name TEXT,
-    start_station_id TEXT,
-    end_station_name TEXT,
-    end_station_id TEXT,
-    start_lat NUMERIC,
-    start_lng NUMERIC,
-    end_lat NUMERIC,
-    end_lng NUMERIC,
-    member_casual TEXT,
-    ride_length INTERVAL,
-    day_of_week SMALLINT NOT NULL CHECK(day_of_week >= 1 AND day_of_week <= 7)
-);
+![image](https://user-images.githubusercontent.com/129348678/229315371-b4d2670c-c8df-459b-b50f-7053295820ad.png)
 
 
 <p align="center">
