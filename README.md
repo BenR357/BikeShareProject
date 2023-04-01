@@ -28,9 +28,8 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
  These formulas were copied down to include all rows of data for each spreadsheet. </p>
  <br />
  <br />
- ![image](https://user-images.githubusercontent.com/129348678/229315916-6c22259f-c6b7-4cd4-9e77-8ef1dec9e2bf.png)
+ ![image](https://user-images.githubusercontent.com/129348678/229316538-c43d37f5-4f54-429f-b113-d44d0093417c.png)
 <br /> <br />
- This text will be <strong>bold</strong>, and the rest of the text will be normal.
 
  <h3>SQL</h3>
 After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. To see a detailed walkthrough for SQL along with the scripts, follow this link.
