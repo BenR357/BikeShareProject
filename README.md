@@ -12,7 +12,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 <h2>Programs and Languages Utilized</h2>
 
 - <b>Excel</b> 
-- <b>SQL</b>
+- <b>SQL</b> </b> <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link to scripts and analysis
 - <b>Tableau</b>
 - <b>Google Slides</b> <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation 
 
