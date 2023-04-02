@@ -30,7 +30,8 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 
  <h3>SQL</h3>
 After transferring the data to SQL, I conducted a thorough analysis and extracted valuable insights on emerging trends. This included cleaning the data, comparing average ride time by rider type, comparing total rides by rider type, and finding which day of the week has the most rides by rider type. To see a detailed walkthrough for SQL along with the scripts, follow this <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link</b>.
-
+<br /><br />
+ 
 ![image](https://user-images.githubusercontent.com/129348678/229322558-87552c81-3925-4ec0-81ed-8ba1f227c24e.png)
 
 ![image](https://user-images.githubusercontent.com/129348678/229322631-9841bb15-2ecb-4bbb-ab44-cde8c417cc70.png)
