@@ -54,12 +54,4 @@ Drawing on the insights obtained from Excel, SQL, and Tableau, I synthesized the
 ***To gain a better understanding of rider habits, it is necessary to conduct further research, including the analysis of rider IDs linked to each ride. Our current assumption is that the high number of casual and member rides is attributable to a large number of riders. By gathering data on the frequency of rides per rider, we can gain additional insights into how often each casual and member uses our service.***
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
