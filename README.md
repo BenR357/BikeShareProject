@@ -16,7 +16,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 
 
 <h2>Walk-through Summary:</h2>
-(Cyclistic is a fictional company and the data has been made available by Motivate International Inc. under this <b><a href="https://ride.divvybikes.com/data-license-agreement"> license</b>.)
+(Cyclistic is a fictional company and the data has been made available by Motivate International Inc. under this <a href="https://ride.divvybikes.com/data-license-agreement"> license.)
 
 <br /> <br /> 
  <h3>EXCEL</h3>
