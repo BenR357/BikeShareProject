@@ -37,12 +37,12 @@ After transferring the data to SQL, I conducted a thorough analysis and extracte
 ![image](https://user-images.githubusercontent.com/129348678/229322631-9841bb15-2ecb-4bbb-ab44-cde8c417cc70.png)
 <br />
 <h3>Tableau</h3>
-Following data cleaning and analysis using SQL, I leveraged Tableau to create several tables and visualize the data in various ways. While designing the tables and adjusting the filters, I uncovered additional insights that I had not previously noticed. This <b><a href="https://public.tableau.com/app/profile/benjamin5615/viz/ride_share_short/Dashboard1">link</b> to my Public Tableau dashbord shows some of my observations. 
+Following data cleaning and analysis using SQL, I leveraged Tableau to create several tables and visualize the data in various ways. While designing the tables and adjusting the filters, I uncovered additional insights that I had not previously noticed. This <a href="https://public.tableau.com/app/profile/benjamin5615/viz/ride_share_short/Dashboard1">link to my Public Tableau dashbord shows some of my observations. 
 
 ![image](https://user-images.githubusercontent.com/129348678/229315371-b4d2670c-c8df-459b-b50f-7053295820ad.png)
 
 <h3>Presentation</h3>
-Drawing on the insights obtained from Excel, SQL, and Tableau, I synthesized the data into a clear and compelling narrative using a Google Slide presentation. The presentation highlights the key trends and patterns in the data, and includes detailed visualizations and analyses to support the conclusions drawn from the data. Additionally, I provided actionable recommendations for stakeholders based on the insights gained through the analysis, in order to inform data-driven decision-making. Follow this <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link</b> to see the full presentation.
+Drawing on the insights obtained from Excel, SQL, and Tableau, I synthesized the data into a clear and compelling narrative using a Google Slide presentation. The presentation highlights the key trends and patterns in the data, and includes detailed visualizations and analyses to support the conclusions drawn from the data. Additionally, I provided actionable recommendations for stakeholders based on the insights gained through the analysis, in order to inform data-driven decision-making. Follow this <a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to see the full presentation.
 
 <h3>Summary and Recommendations</h3>
 <ul>
