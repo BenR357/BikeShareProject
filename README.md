@@ -50,7 +50,7 @@ Drawing on the insights obtained from Excel, SQL, and Tableau, I synthesized the
 <li>Develop a loyalty program: Members already receive perks such as lower rates and priority bike access, but the company can develop a loyalty program that rewards frequent riders with additional benefits. This can include things like free ride credits, exclusive access to events, referral incentives, or even partnerships with local businesses for discounts. By offering additional incentives to ride, casual riders may be more likely to become members.</li>
 <br />
 
-***Further research is needed to have a better understanding of rider habits, such as tying rides to a specific member. Our assumption was that the high number of casual and member rides was coming from a high number of riders. This could be further analyzed if we have a rider ID linked to each ride so we could see how often each casual and member use our service.***
+***To gain a better understanding of rider habits, it is necessary to conduct further research, including the analysis of rider IDs linked to each ride. Our current assumption is that the high number of casual and member rides is attributable to a large number of riders. By gathering data on the frequency of rides per rider, we can gain additional insights into how often each casual and member uses our service.***
 
 
 <!--
