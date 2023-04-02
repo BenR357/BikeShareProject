@@ -10,7 +10,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 <h2>Programs and Languages Utilized</h2>
 
 - <b>Excel</b> 
-- <b>SQL</b> </b> <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link to scripts and analysis </b>
+- <b>SQL</b> <b><a href="https://docs.google.com/document/d/14r6P8wkU_-a02wb2xuPyjLq6n_H4Z1TJn_Jbe5ztmgw/edit?usp=sharing">link to scripts and analysis </b>
 - <b>Tableau</b> <b><a href="https://public.tableau.com/views/ride_share_short/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">link to Tableau </b>
 - <b>Google Slides</b> <b><a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation </b>
 
@@ -18,7 +18,7 @@ Cyclistic launched a successful bike-share offering in 2016. The program has gro
 <h2>Walk-through Summary:</h2>
 (Cyclistic is a fictional company and the data has been made available by Motivate International Inc. under this <b><a href="https://ride.divvybikes.com/data-license-agreement"> license</b>.)
 
-<br /> <br /> </b>
+<br /> <br /> 
  <h3>EXCEL</h3>
 <p>I secured the original data by storing it in my password-protected Google Drive. I then made copies of all the files and added a suffix of ‘…v1’ to each one. I opened each file in Microsoft Excel to review the data and determine what type of information was available. During this process, I added several columns to the data:
 <br /> <br />a. "ride_length" which is calculated by subtracting the "started_at" column from the "ended_at" column (=D2-C2). 
